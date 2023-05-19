@@ -1,0 +1,26 @@
+### Node ###
+logs
+*.log
+npm-debug.log*
+Calculator_bin_dec/node_modules/
+Calculator/node_modules/
+.sass-cache/
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Linux ###
+*~
+
+### Code ###
+.settings/
+.vscode/
+
+### Webstorm ###
+.idea/
+
+### Other ###
+.test/
+.solution
